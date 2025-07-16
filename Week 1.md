@@ -16,9 +16,9 @@
 **Title:** Kickoff + Python Refresher
 
 -   Brush up: variables, functions, loops, lists, dictionaries
--   Install Anaconda / JupyterLab / VSCode
--   Create ai-portfolio/Week1_Titanic folder & GitHub repo
--   Try your first notebook: Load Titanic dataset from Kaggle
+-  ~ Install Anaconda / JupyterLab / VSCode
+-   ~Create ai-portfolio/Week1_Titanic folder & GitHub repo
+-   ~ Try your first notebook: Load Titanic dataset from Kaggle~
 
 **Resources:**
 
